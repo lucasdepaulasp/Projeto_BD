@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# PROJETO_BD_DIO
 
 ### Serviço utilizado
   - Amazon DynamoDB
